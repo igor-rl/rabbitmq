@@ -1,4 +1,4 @@
 Iniciarlizar  projeto em ambiente docker
 ```cmd
-docker compoose up
+docker compoose up -d
 ```
