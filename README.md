@@ -1,3 +1,5 @@
+![header-igor-projetos](https://github.com/igor-rl/assets/blob/main/img/github-projetcs-header.jpg)
+
 # RabbitMQ on Docker - Shared Development Environment
 
 This project sets up an optimized RabbitMQ environment for local
